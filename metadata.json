@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Trama - Fine Textiles & Weaves",
+  "description": "Artisanal textile shop offering luxury natural fibers, Belgian linens, mulberry silks, heritage wools, custom cut-to-order yardage, and fabric sample swatches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
